@@ -1,0 +1,154 @@
+table{
+    border: 1px solid grey;
+}
+th {
+    border: 1px solid grey;
+}
+td {
+    border: 1px solid grey;
+}
+table div{
+    background-color: #F0E68C;
+}
+table .price{
+    background-color: #E0FFFF;
+}
+.third_table{
+    border: 0px;
+}
+.third_table th{
+    border: 1px solid #000000;
+}
+.third_table td{
+    border: 1px solid #000000;
+}
+.third-table{
+    background-color: #FFD966;
+}
+
+.number{
+    background-color: #9CC2E5;
+}
+.info{
+    background-color: #E7E6E6;
+}
+.result{
+    background-color: #538135;
+}
+
+.fifth{
+    border: 0px;
+}
+
+table.fifth td {
+    border: 0px;
+}
+.fifth div{
+    border: 2px solid #993300;
+    font-family: "Arial", sans-serif;
+}
+.fifth tr{
+    margin: 0;
+}
+.fifth div.nav, div.main, div.sidebar{
+    font-family: "Comic Sans MS", sans-serif;
+}
+.div nav{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.fifth div.header{
+    padding: 10px;
+    padding-bottom: 20px;
+    color: #FF9907;
+    background-color: #2E4E96;
+   /* width: 400px;*/
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.fifth div.nav{
+    padding: 5px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    font-size: 14px;
+    text-transform: uppercase;
+    background-color: #F3E1C7;
+}
+
+.fifth .sidebar{
+    text-transform: lowercase;
+    color: #fff;
+    background-color: #2E4E96;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 200px;
+}
+
+.fifth div.main{
+    text-transform: uppercase;
+    background-color: #F3E1C7;
+    padding-left: 10px;
+    padding-top: 10px;
+    height: 200px;
+}
+
+.sixth{
+    border: 0px;
+}
+
+.sixth td{
+    border: 2px solid #993300;
+}
+
+.seventh{
+    border: 0px;
+}
+.seventh td{
+    border: 0px;
+}
+.seventh div{
+    border: 2px solid #993300;
+}
+
+.seventh div.sidebar{
+    color: #fff;
+    background-color: #480468;
+    text-transform: lowercase;
+    font-family: "Comic Sans MS", sans-serif;
+    height: 300px;
+    width: 100px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.seventh div.header{
+    background-color: #A27EB3;
+    color: #480468;
+    font-family: "Comic Sans MS", sans-serif;
+    height: 50px;
+    width: 300px;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.seventh div.nav{
+    background-color: #E6CAF3;
+    text-transform: uppercase;
+    font-family: "Comic Sans MS", sans-serif;
+    height: 30px;
+    width: 300px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.seventh div.main{
+    background-color: #F3E1C7;
+    text-transform: uppercase;
+    font-family: "Comic Sans MS", sans-serif;
+    padding-left: 10px;
+    padding-top: 10px;
+    height: 170px;
+}
