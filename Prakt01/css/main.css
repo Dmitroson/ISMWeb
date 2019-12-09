@@ -97,7 +97,11 @@ table.fifth td {
 }
 
 .sixth td{
-    border: 2px solid #993300;
+    border: 0px;
+}
+
+.sixth div{
+    border: 2px solid #538135;
 }
 
 .seventh{

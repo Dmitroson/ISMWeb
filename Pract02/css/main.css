@@ -1,0 +1,261 @@
+body{
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+
+div,p,form,input,button,span,a,ul,li{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.header-page{
+    background-color: #E6E6E6;
+    padding: 20px 25px;
+    padding-right: 5px;
+}
+
+div.logo{
+    display: inline-block;
+    float: left;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.horizontal li{
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    color: #1F77B6;
+}
+
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-nav li{
+    margin-left: 20px;
+}
+
+a.btn{
+    padding: 15px 30px;
+    background-color: #1F77B6;
+    color: #fff;
+}
+
+a.btn:hover, button.btn:hover{
+    cursor: pointer;
+    background-color: #2E4E96;
+    transition: all 0.5s ease;
+}
+
+main{
+    padding: 20px 6%;
+    background-color: #FEFEFE;
+}
+
+div.intro{
+    width: 44%;
+}
+
+p.intro-head{
+    font-size: 52px;
+    margin: 0;
+    text-transform: capitalize;
+}
+
+p.intro-head span.lowercase{
+    text-transform: lowercase;
+}
+
+.intro p.description{
+    color: #A4A4A4;
+    font-size: 16px;
+}
+
+.intro div.buttons{
+    margin-top: 25px;
+    margin-bottom: 33px;
+}
+
+.intro div.buttons a.btn{
+    padding: 10px 20px;
+}
+
+.half-intro{
+    width: 22%;
+}
+
+section.offer .picture{
+    color: #6D6D6D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    height: 240px;
+    background-color: #A4A4A4;
+    margin-left: 50px;
+}
+
+section.offer{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #A4A4A4;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+
+form{
+    height: 240px;
+    border: 1px solid #A4A4A4;
+    background-color: #DFDFDF;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+form input{
+    width: 100%;
+    height: 35px;
+    margin-bottom: 15px;
+}
+
+form label{
+    font-size: 14px;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+
+form button{
+    width: 50%;
+    padding: 10px 15px;
+    background-color: #1F77B6;
+    color: #ffffff;
+    border: none;
+    margin-top: 10px;
+}
+
+p.trending-head{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+section.destinations div.wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+section.destinations div.destination{
+    border: 1px solid #A4A4A4;
+    padding: 20px;
+    margin-bottom: 30px;
+    width: 350px;
+}
+
+section.destinations p.caption1{
+    font-weight: 700;
+}
+
+div.pegasi{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #A4A4A4;
+    height: 300px;
+    width: 100%;
+}
+
+.destinations a.btn{
+    display: block;
+    text-align: center;
+    border: 1px solid #1F77B6;
+    background-color: #fff;
+    color: #1F77B6;
+}
+
+.destinations a.btn:hover{
+    background-color: #1F77B6;
+    border: 1px solid #2E4E96;
+    color: #fff;
+}
+
+footer.footer-page{
+    background-color: #E6E6E6;
+    border: 1px solid #A4A4A4;
+}
+
+section.info > div{
+    width: 25%;
+}
+
+section.info{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+section.info ul{
+    margin: 20px 10px;
+    margin-bottom: 0;
+}
+
+section.info ul>li{
+    margin-top: 10px;
+}
+
+div.contact a{
+    padding-left: 25px;
+}
+
+div.contact a.twitter{
+    background: url("../img/twitter.svg") no-repeat left;
+}
+
+div.contact a.facebook{
+    background: url("../img/facebook.svg") no-repeat left;
+}
+
+div.contact a.instagram{
+    background: url("../img/instagram.svg") no-repeat left;
+}
+
+div.contact a.pinterest{
+    background: url("../img/pinterest.svg") no-repeat left;
+}
+
+section.footer-bottom{
+    background-color: #FEFEFE;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 23%;
+}
+
+div.help li{
+    display: inline-block;
+    margin-right: 25px;
+}
+
+div.help li:last-child{
+    margin-right: 0;
+}
+
+.copyright{
+    font-weight: 700;
+}
