@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5042f50-ef8c-49ae-8547-84cdd9c0ebf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pract02/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pract02/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Prakt01/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Prakt01/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Prakt01/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/Prakt01/tables.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +24,11 @@
   </component>
   <component name="ProjectId" id="1Tvr9mOoaZWwtBMhL9TQ3EUQdOi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -40,15 +41,15 @@
       <recent name="C:\Users\User\WebstormProjects\ISMWeb\Pract02\css" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -72,6 +73,13 @@
       <workItem from="1575561136524" duration="1059000" />
       <workItem from="1575845571238" duration="999000" />
       <workItem from="1575887519894" duration="31033000" />
+      <workItem from="1575992184412" duration="535000" />
+      <workItem from="1576085485511" duration="53000" />
+      <workItem from="1576085796385" duration="7000" />
+      <workItem from="1576093012725" duration="6000" />
+      <workItem from="1576141315607" duration="451000" />
+      <workItem from="1576142074658" duration="1022000" />
+      <workItem from="1576144971021" duration="1848000" />
     </task>
     <servers />
   </component>
